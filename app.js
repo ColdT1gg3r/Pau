@@ -1,3 +1,5 @@
+//Hola
+
 //Comentario de una sola línea
 var nombre = 'Paola';
 console.log(nombre);
