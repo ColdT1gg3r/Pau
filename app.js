@@ -94,6 +94,7 @@ menor igual <=
 igual ==
 */
 
+*/HOLA*/
 var num1 = 8;
 var num2 = 100;
 
@@ -141,7 +142,7 @@ console.log(--edadXiommara);
 
 +=, -=, *=, /=, %=
 
-*/
+*/ 
 
 var a = 15;
 var b = 5;
